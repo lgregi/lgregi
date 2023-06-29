@@ -2,4 +2,5 @@
 
 
 
-![gif]([https://github.com/lgregi/lgregi/assets/106933976/3000ec9b-84f8-492b-8807-99272ee56d8a](https://giphy.com/gifs/looneytunesworldofmayhem-world-of-mayhem-looney-tunes-ltwom-RbDKaczqWovIugyJmW)https://giphy.com/gifs/looneytunesworldofmayhem-world-of-mayhem-looney-tunes-ltwom-RbDKaczqWovIugyJmW)
+![IMG_1015](https://github.com/lgregi/lgregi/assets/106933976/5e236a4b-f253-4e9c-8bb8-4903d55fd00a)
+
