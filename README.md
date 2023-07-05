@@ -1,4 +1,4 @@
-### Hello guys
+### Hello guys, I am a backend developer, but occasionally I do some cool stuff with frontend.
 
 ##
 
