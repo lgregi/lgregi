@@ -2,7 +2,7 @@
 
 ##
 
-  <img align="center" alt="Greg-Ts" height="380" width="900" src="https://media2.giphy.com/media/ZVik7pBtu9dNS/200.gif?cid=790b76116a4793f56a9385a718592a630c03c238aefae875&rid=200.gif">
+  <img align="center" alt="Greg-Ts" height="380" width="900" src="https://th.bing.com/th/id/R.8d8c83e6fd50045287375032a8797318?rik=Yv%2bzA7JIgyA9zA&pid=ImgRaw&r=0">
 
 ##
 
