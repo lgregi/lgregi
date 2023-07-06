@@ -7,6 +7,9 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lgregi&show_icons=true&theme=dark&include_all_comits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lgregi&layout=compact&langs_count=168&theme=dark"/>
 </div>
+  ##
+
+  <img align="center" alt="Greg-Ts" height="30" width="40" src="https://th.bing.com/th/id/OIP.7kYSrNKZNny-vym7CAht2AHaEb?pid=ImgDet&rs=1">
   
 
 ##
