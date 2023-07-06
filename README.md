@@ -2,14 +2,16 @@
 
 ##
 
+  <img align="center" alt="Greg-Ts" height="750" width="750" src="https://media2.giphy.com/media/ZVik7pBtu9dNS/200.gif?cid=790b76116a4793f56a9385a718592a630c03c238aefae875&rid=200.gif">
+
+##
+
 <div>
  <a href="https://github.com/lgregi"> 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lgregi&show_icons=true&theme=dark&include_all_comits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lgregi&layout=compact&langs_count=168&theme=dark"/>
 </div>
-  ##
-
-  <img align="center" alt="Greg-Ts" height="750" width="750" src="https://media2.giphy.com/media/ZVik7pBtu9dNS/200.gif?cid=790b76116a4793f56a9385a718592a630c03c238aefae875&rid=200.gif">
+  
   
 
 ##
