@@ -9,7 +9,7 @@
 </div>
   ##
 
-  <img align="center" alt="Greg-Ts" height="30" width="40" src="https://th.bing.com/th/id/OIP.7kYSrNKZNny-vym7CAht2AHaEb?pid=ImgDet&rs=1">
+  <img align="center" alt="Greg-Ts" height="2000" width="2000" src="https://th.bing.com/th/id/OIP.7kYSrNKZNny-vym7CAht2AHaEb?pid=ImgDet&rs=1">
   
 
 ##
