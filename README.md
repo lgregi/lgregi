@@ -9,7 +9,7 @@
 </div>
   ##
 
-  <img align="center" alt="Greg-Ts" height="750" width="750" src="https://cdn.dribbble.com/users/348324/screenshots/1784866/technology.gif">
+  <img align="center" alt="Greg-Ts" height="750" width="750" src="https://media2.giphy.com/media/ZVik7pBtu9dNS/200.gif?cid=790b76116a4793f56a9385a718592a630c03c238aefae875&rid=200.gif">
   
 
 ##
