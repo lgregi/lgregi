@@ -1,4 +1,4 @@
-### <h2>Hello guys, I am a backend developer but sometimes I do some cool stuff with frontend.</h2>
+### <h2 color="black">Hello guys, I am a backend developer but sometimes I do some cool stuff with frontend.</h2>
 
   
 
