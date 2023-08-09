@@ -13,7 +13,7 @@
   
 
 ##
-<div style="display: inline_block" background-color="black"><br>  
+<div style="display: inline_block" background-color="#fff"><br>  
   <img align="center" alt="Greg-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
  <img align="center" alt="Greg-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
    <img align="center" alt="Greg-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
